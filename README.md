@@ -17,11 +17,7 @@ A sleek and modern **Counter App** built using **HTML, CSS, and JavaScript**. Th
 
 - **HTML5** – Markup structure  
 - **CSS3** – Styling and layout (includes transitions & flexbox)  
-- **JavaScript (Vanilla)** – DOM manipulation and logic
-
-## 📸 Demo
-
-You can view a live demo of the app [here](#) _(replace with GitHub Pages/Netlify link if hosted)_
+- **JavaScript** – DOM manipulation and logic
 
 ## 🧩 Folder Structure
 
